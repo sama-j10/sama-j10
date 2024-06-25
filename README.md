@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sama-j10
 - 👀 I’m interested in web design and IA
 - 🌱 I’m currently learning SAP and how to make my own IA pics
-- 💞️ I’m looking to collaborate on 
 - 😄 Pronouns: She/Her
 
 <!---
